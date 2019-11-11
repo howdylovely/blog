@@ -21,3 +21,8 @@ line 错误行
 
 ECHO golang框架的格式
 http://go-echo.org/middleware/logger/
+
+Gin 日志格式
+gin.DebugPrintRouteFunc = func(httpMethod, absolutePath, handlerName string, nuHandlers int) {
+		log.Printf("endpoint %v %v %v %v\n", httpMethod, absolutePath, handlerName, nuHandlers)
+}
