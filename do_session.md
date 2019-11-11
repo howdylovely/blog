@@ -6,3 +6,4 @@
 4.基于resin/tomcat web容器本身的session复制机制
 5.基于TT/Redis 或 jbosscache 进行 session 共享。
 6.基于cookie 进行session共享
+https://www.jianshu.com/p/ad22a0291eb6
