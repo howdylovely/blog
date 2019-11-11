@@ -1,5 +1,5 @@
 
-# 全局Session实现方式
+# 与客户端全局Session关联的方式
 ```text
 cookie、url重写
 ```
