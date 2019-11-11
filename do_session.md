@@ -1,3 +1,10 @@
+
+# 全局Session实现方式
+```text
+cookie、url重写
+```
+
+
 # 分布式Session的几种实现方式
 
 ```text
