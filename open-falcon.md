@@ -45,4 +45,5 @@ https://www.cnblogs.com/airoot/p/7919295.html
   CMDB
   自动收集agent发的心跳信息会把hostname、ip、agent version、plugin version等信息告诉HBS，HBS负责更新host表。
 
-  
+
+
