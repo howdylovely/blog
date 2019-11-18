@@ -179,6 +179,12 @@ Other options:
 Usage: find [-H] [-L] [-P] [-Olevel] [-D help|tree|search|stat|rates|opt|exec] [path...] [expression]
 参考地址：
 https://www.cnblogs.com/shenqidu/p/10615593.html
+
+stat filename
+查看这三种时间
+atime	access time	访问时间	文件中的数据库最后被访问的时间
+mtime	modify time	修改时间	文件内容被修改的最后时间
+ctime	change time	变化时间	文件的元数据发生变化。比如权限，所有者等
 ```
 
 # exec
