@@ -180,3 +180,8 @@ Usage: find [-H] [-L] [-P] [-Olevel] [-D help|tree|search|stat|rates|opt|exec] [
 参考地址：
 https://www.cnblogs.com/shenqidu/p/10615593.html
 ```
+
+# exec
+```text
+https://www.cnblogs.com/xiaofeiIDO/p/7301327.html
+```
