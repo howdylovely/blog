@@ -174,3 +174,9 @@ Other options:
       --version  output version information and exit
 
 ```
+# find 
+```text
+Usage: find [-H] [-L] [-P] [-Olevel] [-D help|tree|search|stat|rates|opt|exec] [path...] [expression]
+参考地址：
+https://www.cnblogs.com/shenqidu/p/10615593.html
+```
